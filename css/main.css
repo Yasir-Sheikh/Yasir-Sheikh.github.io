@@ -6,5 +6,7 @@ p{
 }
 #banner{
  max-width:100%;
+ display:grid;
+ 
  
 }
