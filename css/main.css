@@ -15,6 +15,11 @@ background-color:#f7f7f7;
 #banner{
 width:100%;
 }
+#table{
+ font-weight:bold;
+ font-size:30px;
+ 
+}
 p{
 margin-top: 20px;
 font-size: 20px;
