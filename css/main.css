@@ -52,3 +52,9 @@ h2{
  font-size: 40px;
  
 }
+ol{
+ font-size:15px;
+ float:right;
+ border: 2px solid black;
+ 
+}
