@@ -9,26 +9,16 @@ h1{
  transform: translate(-50%, -50%);
 }
 #banner{
- width:100%;
+width:100%;
 }
-p1{
- margin-top: 500px;
- 
- 
+#p1{
+margin-top: 500px;
 }
-pic1{
+#pic1{
 width: 500px;
- height:500px;
- 
- 
-}
-.text{
- font-family: 'Rubik', sans-serif; 
- font-size: 20px;
- padding-left:30%;
- padding-right:30%;
+height:500px;
 }
 h2{
+ margin-top:100px;
  text-align:left;
- 
 }
