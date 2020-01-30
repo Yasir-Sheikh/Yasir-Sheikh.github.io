@@ -12,7 +12,7 @@ h1{
 width:100%;
 }
 #p1{
-margin-top: 500px;
+margin-top: 100px;
 }
 #pic1{
 width: 500px;
@@ -21,7 +21,7 @@ height:500px;
 .text{
  padding-left:30%;
  padding-right:30%;
- 
+ font-family: 'Rubik', sans-serif; 
  
 }
 h2{
