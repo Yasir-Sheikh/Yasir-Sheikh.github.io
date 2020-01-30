@@ -12,11 +12,12 @@ h1{
 width:100%;
 }
 #p1{
-margin-top: 50px;
+margin-top: 20px;
+font-size: 20px;
 }
 #pic1{
-width: 700px;
-height:600px;
+width: 500px;
+height:500px;
 }
 .text{
  padding-left:30%;
