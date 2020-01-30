@@ -37,9 +37,11 @@ border-radius:7px;
 }
 
 .text{
- border-top: 1px solid gray;
  padding-left:30%;
  padding-right:30%; 
+}
+.text2{
+ border-top: 1px solid gray; 
 }
 h2{
  
