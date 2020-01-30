@@ -2,6 +2,7 @@ h1{
  font-family: 'Rubik', sans-serif; 
  font-size: 80px;
  font-weight: bold;
+ line-height: 10%;
  position: absolute;
  top: 30%;
  transform: translate(-50%, -50%);
