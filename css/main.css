@@ -8,6 +8,10 @@ h1{
  left:45%;
  transform: translate(-50%, -50%);
 }
+body{
+background-color:#bbc4c2;
+ 
+}
 #banner{
 width:100%;
 }
