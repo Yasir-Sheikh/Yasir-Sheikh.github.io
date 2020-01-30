@@ -5,6 +5,7 @@ h1{
  line-height: 10%;
  position: absolute;
  top: 30%;
+ left:45%;
  transform: translate(-50%, -50%);
 }
 #banner{
